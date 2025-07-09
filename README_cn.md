@@ -47,9 +47,9 @@ DOFBot 是一个基于计算机视觉和机械臂控制的智能矿石分类系�
 
 **1.克隆仓库：**
 
-bash
+`bash
 
-`git clone https://github.com/TongZhang-zt/public.git
+git clone https://github.com/TongZhang-zt/public.git
 cd dofbot_gem_yolov5`
 
 **2.安装依赖：**
