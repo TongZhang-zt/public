@@ -60,9 +60,11 @@ bash
 
 **3.部署机械臂驱动：**
 
+Arm_Lib在py_install文件中，将文件下载打开，执行setup.py文件
+
 bash
 
-`sudo cp Arm_Lib/ /usr/local/lib/`
+`python setup.py`
 
 ### **使用说明**
 
