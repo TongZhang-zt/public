@@ -1,0 +1,20 @@
+# 核心依赖
+opencv-python>=4.5.4.60
+numpy>=1.21.0
+ipywidgets>=8.0.0
+jupyter>=1.0.0
+pyserial>=3.5
+
+# 机器人控制
+pinocchio>=2.6.19
+hobot-dnn>=0.1.0  # Horizon Robotics推理引擎
+
+# ROS2相关 (可选)
+rclpy>=3.0.0      # 如果使用ROS2功能
+
+# 日志管理
+psutil>=5.9.0     # 系统监控
+
+# 数据处理
+matplotlib>=3.5.0 # 可选，用于调试可视化
+scipy>=1.7.3      # 可选，用于高级数学运算
