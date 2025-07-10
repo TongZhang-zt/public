@@ -1,0 +1,4 @@
+[0706/031619:WARNING:backend_impl.cc(1807)] Destroying invalid entry.
+[0706/031621:INFO:CONSOLE(0)] "The source list for Content Security Policy directive 'script-src' contains an invalid source: ''report-sample''. It will be ignored.", source: https://www.altium.com/ad-start/ (0)
+[0706/031621:INFO:CONSOLE(0)] "Unrecognized Content-Security-Policy directive 'worker-src'.
+", source: https://www.altium.com/ad-start/ (0)
